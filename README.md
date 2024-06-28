@@ -1,4 +1,4 @@
 # apna
 this is my first git repository.
 <br>
-Author- Jahnavi Tiwari
+Author- Jahnavi Tiwari (apna college )
